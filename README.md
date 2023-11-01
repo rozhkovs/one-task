@@ -15,14 +15,14 @@ Sequential running of tasks with a cancellation token
 
 ## Installation
 ```shell
-npm install one-task
+npm install @rozhkov/one-task
 # or
-yarn add one-task
+yarn add @rozhkov/one-task
 ```
 
 ## Usage
 ```javascript
-import oneTask from 'one-task';
+import oneTask from '@rozhkov/one-task';
 
 const updateStateAsTransaction = async (cancellationToken) => {
   const rollback = async () => {/* restore state */};
