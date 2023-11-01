@@ -64,6 +64,7 @@
     "transaction",
     "concurrency",
     "concurrent",
+    "manager",
     "queue",
     "synchronous",
     "one",
