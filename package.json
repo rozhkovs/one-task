@@ -1,5 +1,5 @@
 {
-  "name": "one-task",
+  "name": "@rozhkov/one-task",
   "version": "0.0.0-development",
   "description": "Sequential running of tasks with a cancellation token",
   "license": "MIT",
