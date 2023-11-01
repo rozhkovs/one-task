@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "checkJs": true,
+    "isolatedModules": true,
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "exclude": [
+    "**/__tests__"
+  ]
+}
